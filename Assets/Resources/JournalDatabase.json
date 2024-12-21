@@ -1,0 +1,462 @@
+{
+    "animals": [
+        {
+            "name": "Lesser Mousedeer",
+            "spawnTag1": "Grass",
+            "spawnTag2": "NA",
+            "type": "Mammal",
+            "sciName": "Tragulus kanchil",
+            "description": "Also known as the Lesser Malay Chevrotain, this tiny, shy ungulate has slender legs and a small, rounded body. It is nocturnal and feeds on fruits and leaves.",
+            "ecosystems": [
+               "Lowland rainforest",
+               "Secondary forest"
+            ],
+            "rarity": 3,
+            "funFacts": [
+               "They are among the smallest hoofed animals in the world, weighing only about 1 to 2 kilograms",
+               "Lesser Mousedeer are excellent swimmers and can dive underwater to avoid predators",
+               "These shy creatures are primarily nocturnal, preferring to forage during the cooler nighttime hours",
+               "They have elongated, mobile snouts that help them pick and choose their food carefully"
+            ],
+            "location": ["Bukit Timah  Dairy Farm", "Macritchie Reservoir Park", "Pierce Reservoir Parks", "Hillside Parks", "Mandai Area"],
+            "spritePath": "AnimalPrefabs/LesserMousedeer",
+            "isFound": false,
+            "screenShot": 0
+         },
+          {
+            "name": "Oriental Dwarf Kingfisher",
+            "spawnTag1": "Tree",
+            "spawnTag2": "NA",
+            "type": "Bird",
+            "sciName": "Ceyx erithaca",
+            "description": "A small, vibrant bird with bright orange and blue plumage. It inhabits dense forests and is known for its swift, agile flight and sharp beak, which it uses to catch insects and small fish.",
+            "ecosystems": [
+               "Lowland rainforest",
+               "Freshwater swamp forest",
+               "Secondary forest"
+            ],
+            "rarity": 5,
+            "funFacts": [
+               "They are often called \"jewels of the forest\" due to their stunningly bright plumage",
+               "These kingfishers have a unique hunting style, waiting patiently on branches before diving down to catch insects or small fish",
+               "Their breeding season is marked by elaborate courtship displays, including aerial acrobatics and gift presentations",
+               "Oriental Dwarf Kingfishers are highly territorial during breeding season, defending their nesting sites vigorously"
+            ],
+            "location": ["Bukit Timah  Dairy Farm", "Macritchie Reservoir Park", "Pierce Reservoir Parks", "Mandai Area", "Southern Ridges"],
+            "spritePath": "AnimalPrefabs/OrientalDwarfKingfisher",
+            "isFound": false,
+            "screenShot": 0
+         },
+          {
+            "name": "Raffles Banded Langur",
+            "spawnTag1": "Tree",
+            "spawnTag2": "Grass",
+            "type": "Mammal",
+            "sciName": "Presbytis femoralis",
+            "description": "An endangered species of primate found only in Singapore and southern Peninsular Malaysia. It has a black and white coat and lives in groups in forested areas.",
+            "ecosystems": [
+               "Lowland rainforest",
+               "Secondary forest"
+            ],
+            "rarity": 2,
+            "funFacts": [
+               "They are named after Sir Stamford Raffles, who is credited with the discovery of the species in 1822",
+               "This langur species has a complex social structure, living in cohesive groups led by a dominant male",
+               "They are primarily leaf-eaters, consuming a variety of foliage supplemented occasionally with fruits and flowers",
+               "Raffles Banded Langurs are critically endangered, with fewer than 60 individuals remaining in the wild"
+            ],
+            "location": ["Bukit Timah  Dairy Farm", "Southern Ridges"],
+            "spritePath": "AnimalPrefabs/RafflesBandedLangur",
+            "isFound": false,
+            "screenShot": 0
+         },
+          {
+            "name": "Stinkhorn Mushroom",
+            "spawnTag1": "NA",
+            "spawnTag2": "NA",
+            "type": "Fungi",
+            "sciName": "Various species, e.g., Phallus indusiatus",
+            "description": "A group of fungi known for their unique, often phallic shapes and foul odor, which attracts insects for spore dispersal.",
+            "ecosystems": [
+               "Lowland rainforest",
+               "Secondary forest",
+               "Urban",
+               "",
+               ""
+            ],
+            "rarity": 6,
+            "funFacts": [
+
+            ],
+            "location": ["Bukit Timah  Dairy Farm", "Mandai Area", "Fort Canning Park", "Botanic Gardens Rainforest"],
+            "spritePath": "NA",
+            "isFound": false,
+            "screenShot": 0
+         },
+          {
+            "name": "Asian Palm Civet",
+            "spawnTag1": "Tree",
+            "spawnTag2": "Grass",
+            "type": "Mammal",
+            "sciName": "Paradoxurus hermaphroditus",
+            "description": "A small, nocturnal mammal with a long body and face resembling that of a mongoose. It feeds on fruits, insects, and small animals, and is known for its role in producing kopi luwak, a type of coffee.",
+            "ecosystems": [
+               "Lowland rainforest",
+               "Secondary forest",
+               "Urban"
+            ],
+            "rarity": 4,
+            "funFacts": [
+               "These civets have a distinctive musky odor, which helps mark their territories and communicate with other civets",
+               "They feed on palm flower sap, which when fermented becomes toddy, a sweet liquor. Because of this habit, they are called \"toddy cats\"",
+               "Civets are often called civet cats but in fact, they are not cats. They are more closely related to mongoose",
+               "Asian palm civets can distinguish animal species, gender, and familiar/unfamiliar individuals by the odor of the perineal gland secretion"
+            ],
+            "location": ["Bukit Timah  Dairy Farm", "Mandai Area", "Southern Ridges", "Bishan Park"],
+            "spritePath": "AnimalPrefabs/AsianPalmCivet",
+            "isFound": false,
+            "screenShot": 0
+         },
+          {
+            "name": "Smooth-coated Otter",
+            "spawnTag1": "Grass",
+            "spawnTag2": "Water",
+            "type": "Mammal",
+            "sciName": "Lutrogale perspicillata",
+            "description": "A social and playful otter species with smooth fur, webbed feet, and a diet consisting mainly of fish. They live in family groups and are often seen in rivers and coastal areas.",
+            "ecosystems": [
+               "Freshwater bodies",
+               "Marshland",
+               "Mangrove",
+               "Urban"
+            ],
+            "rarity": 7,
+            "funFacts": [
+               "They are highly social animals, often living in extended family groups called rafts.",
+               "Smooth-coated Otters are playful and known for their agility both on land and in water, where they excel at swimming and diving",
+               "They communicate through a variety of vocalizations and use scent markings to establish territories",
+               "Otters have sensitive whiskers that help them detect prey underwater, primarily fish, crustaceans, and mollusks"
+            ],
+            "location": ["Macritchie Reservoir Park", "Sungei Buloh", "Southern Islands", "Changi Beach", "Bishan Park", "Kranji"],
+            "spritePath": "AnimalPrefabs/SmoothCoatedOtter",
+            "isFound": false,
+            "screenShot": 0
+         },
+          {
+            "name": "Grey-headed Fish Eagle",
+            "spawnTag1": "Grass",
+            "spawnTag2": "Tree",
+            "type": "Bird",
+            "sciName": "Ichthyophaga ichthyaetus",
+            "description": "A large raptor with a distinctive grey head and powerful talons. It primarily feeds on fish and is often seen near bodies of water.",
+            "ecosystems": [
+               "Freshwater bodies",
+               "Mangrove",
+               "Coastal hill rainforest"
+            ],
+            "rarity": 5,
+            "funFacts": [
+               "They are powerful raptors known for their distinctive grey head and white underparts",
+               "Grey-headed Fish Eagles are skilled hunters, often catching fish near water bodies using their sharp talons",
+               ",They build large stick nests in tall trees near water, where they raise their young and defend their territory",
+               "Their piercing call is a characteristic sound in many Southeast Asian wetland habitats"
+            ],
+            "location": ["Macritchie Reservoir Park", "Sungei Buloh", "Southern Islands", "Changi Beach", "Kranji"],
+            "spritePath": "AnimalPrefabs/GreyHeadedFishEagle",
+            "isFound": false,
+            "screenShot": 0
+         },
+          {
+            "name": "Oriental Pied-Hornbill",
+            "spawnTag1": "Tree",
+            "spawnTag2": "NA",
+            "type": "Bird",
+            "sciName": "Anthracoceros albirostris",
+            "description": "A large bird with a prominent casque on its bill. It has a striking black and white plumage and is known for its loud calls and fruit-based diet.",
+            "ecosystems": [
+               "Lowland rainforest",
+               "Coastal hill rainforest",
+               "Secondary forest",
+               "Urban"
+            ],
+            "rarity": 6,
+            "funFacts": [
+               "They are notable for their large, brightly colored bill topped with a casque, which is a hollow structure made of keratin",
+               "Oriental Pied-Hornbills have a unique nesting behavior where the female seals herself inside a tree cavity using mud and droppings, leaving only a small slit for feeding",
+               "They are omnivorous, feeding on fruits, insects, small reptiles, and even small birds",
+               "These hornbills play a vital role in seed dispersal, helping maintain forest diversity by spreading seeds over wide areas"
+            ],
+            "location": ["Bukit Timah  Dairy Farm", "Mandai Area", "Botanic Gardens Rainforest"],
+            "spritePath": "AnimalPrefabs/OrientalPiedHornbill",
+            "isFound": false,
+            "screenShot": 0
+         },
+          {
+            "name": "Brahminy Kite",
+            "spawnTag1": "Tree",
+            "spawnTag2": "NA",
+            "type": "Bird",
+            "sciName": "Haliastur indus",
+            "description": "A medium-sized raptor with a distinctive white head and chest, and reddish-brown body. It is often seen soaring over water bodies and feeding on fish and small mammals.",
+            "ecosystems": [
+               "Coastal hill rainforest",
+               "Freshwater bodies",
+               "Mangrove",
+               "Intertidal",
+               "Urban"
+            ],
+            "rarity": 8,
+            "funFacts": [
+               "They are named after the Brahminy caste of Hindu priests, owing to their striking reddish-brown plumage resembling the traditional attire of Brahmins, ",
+               "According to a fable from central Bougainville Island, a mother left her baby under a banana tree while gardening and the baby floated into the sky crying and transformed into Kaa'nang, the Brahminy kite, its necklace becoming the bird's feathers",
+               "Brahminy kites gather in communal roosts that may sometimes number as many as 600 individuals!",
+               "They are also known as the \"Red-backed Sea Eagle\" due to their reddish-brown plumage."
+            ],
+            "location": ["Sungei Buloh", "Changi Beach", "Southern Islands", "Coastal areas", "Kranji"],
+            "spritePath": "AnimalPrefabs/BrahminyKite",
+            "isFound": false,
+            "screenShot": 0
+         },
+          {
+            "name": "Banded Wolf Snake",
+            "spawnTag1": "Tree",
+            "spawnTag2": "Grass",
+            "type": "Herpetofauna",
+            "sciName": "Lycodon subcinctus",
+            "description": "A small, non-venomous snake with distinct black and white bands. It is nocturnal and feeds on small lizards and rodents.",
+            "ecosystems": [
+               "Lowland rainforest",
+               "Secondary forest",
+               "Urban"
+            ],
+            "rarity": 4,
+            "funFacts": [
+               "Banded Wolf Snakes are nocturnal and secretive, preferring to hide in leaf litter or under rocks during the day",
+               "Their distinct banded pattern serves as camouflage in their forest habitats, helping them blend in with their surroundings",
+               "Despite their name, they are not true wolves and do not hunt in packs but are solitary hunters",
+               "These snakes are relatively harmless to humans and play a role in controlling populations of small vertebrates in their ecosystems"
+            ],
+            "location": ["Bukit Timah  Dairy Farm", "Hillside Parks", "Bishan Park"],
+            "spritePath": "AnimalPrefabs/BandedWolfSnake",
+            "isFound": false,
+            "screenShot": 0
+         },
+          {
+            "name": "Banded Bullfrog",
+            "spawnTag1": "Grass",
+            "spawnTag2": "Water",
+            "type": "Herpetofauna",
+            "sciName": "Kaloula pulchra",
+            "description": "Also known as the Asian Painted Frog, it has a stout body with distinctive bands or stripes and emits a loud, distinctive call during the breeding season.",
+            "ecosystems": [
+               "Freshwater swamp forest",
+               "Secondary forest",
+               "Urban"
+            ],
+            "rarity": 6,
+            "funFacts": [
+               "They are named for their distinctive black and brown bands that give them a striking appearance",
+               "Banded Bullfrogs are voracious predators, feeding on insects, small fish, and even other frogs",
+               "Their deep calls are often heard during breeding season, attracting females and warding off rival males",
+               "Their form is suited for walking and burrowing rather than jumping. They are able to survive dry conditions by burying themselves in the ground and waiting for rain; the burrowing also helps them avoid predators"
+            ],
+            "location": ["Bukit Timah  Dairy Farm", "Bedok Reservoir Park", "Tampines Eco Green"],
+            "spritePath": "AnimalPrefabs/BandedBullfrog",
+            "isFound": false,
+            "screenShot": 0
+         },
+          {
+            "name": "Malayan Water Monitor",
+            "spawnTag1": "Grass",
+            "spawnTag2": "Water",
+            "type": "Herpetofauna",
+            "sciName": "Varanus salvator",
+            "description": "A large lizard that can grow up to 3 meters in length. It is an excellent swimmer and feeds on a variety of prey, including fish, birds, and small mammals.",
+            "ecosystems": [
+               "Lowland rainforest",
+               "Mangrove",
+               "Intertidal",
+               "Urban"
+            ],
+            "rarity": 7,
+            "funFacts": [
+               "They are excellent swimmers and can remain submerged for extended periods while hunting",
+               "They have a forked tongue, which they use to detect prey and navigate their environment",
+               "A group of Asian water monitor lizards is called a lounge",
+               "It is the second heaviest and third longest lizard in the world!"
+            ],
+            "location": ["Sungei Buloh", "Changi Beach", "Southern Islands", "Bishan Park", "Kranji"],
+            "spritePath": "AnimalPrefabs/MalayanWaterMonitor",
+            "isFound": false,
+            "screenShot": 0
+         },
+          {
+            "name": "Estuarine Crocodile",
+            "spawnTag1": "Grass",
+            "spawnTag2": "Water",
+            "type": "Herpetofauna",
+            "sciName": "Crocodylus porosus",
+            "description": "The largest living reptile, capable of growing over 6 meters in length. It inhabits coastal areas and estuaries, preying on fish, birds, and mammals.",
+            "ecosystems": [
+               "Freshwater bodies",
+               "Marshland", 
+               "Mangrove",
+               "Intertidal"
+            ],
+            "rarity": 5,
+            "funFacts": [
+               "They are one of the largest crocodile species, with males reaching lengths of up to 6 meters!",
+               "Estuarine Crocodiles have a powerful bite force and are known to ambush prey at the water's edge",
+               "These crocs don’t have big stomachs and after having had their fill, they may stow any leftovers in mangroves or underwater for another day!\n",
+               "The temperature of the nest determines the sex of the hatchlings. Males are produced between 31 to 33ºC while more females are hatched outside of this temperature range."
+            ],
+            "location": ["Sungei Buloh", "Changi Beach", "Southern Islands", "Coastal areas", "Kranji"],
+            "spritePath": "AnimalPrefabs/EstuarineCrocodile",
+            "isFound": false,
+            "screenShot": 0
+         },
+          {
+            "name": "Horseshoe Crab",
+            "spawnTag1": "Grass",
+            "spawnTag2": "NA",
+            "type": "Arthropods",
+            "sciName": "Tachypleus gigas",
+            "description": "An ancient marine arthropod with a hard, dome-shaped shell and a long tail spine. It is often found in shallow coastal waters and plays a crucial role in the ecosystem.",
+            "ecosystems": [
+               "Intertidal",
+               "Mangrove",
+               "Rocky shore"
+            ],
+            "rarity": 4,
+            "funFacts": [
+               "They have blue blood due to the presence of copper-based hemocyanin",
+               " Their blood is used in the biomedical industry to test for bacterial endotoxins",
+               "They have existed for about 450 million years, making them \"living fossils\" which predate even the dinosaurs!",
+               "With 9 eyes in total along with various light receptors near their telson, these creatures have very good vision!"
+            ],
+            "location": ["Changi Beach", "Southern Islands", "Intertidal zones"],
+            "spritePath": "AnimalPrefabs/HorseshoeCrab",
+            "isFound": false,
+            "screenShot": 0
+         },
+          {
+            "name": "Pill Cockroach",
+            "spawnTag1": "Tree",
+            "spawnTag2": "Grass",
+            "type": "Arthropods",
+            "sciName": "Perisphaerus punctatus",
+            "description": "Also known as the \"Roly-Poly\" cockroach, it can roll into a tight ball when threatened. It has a smooth, shiny exoskeleton and is found in leaf litter and under logs.",
+            "ecosystems": [
+               "Lowland rainforest",
+               "Secondary forest",
+               "Urban"
+            ],
+            "rarity": 8,
+            "funFacts": [
+               "They have a unique ability to roll into a tight ball when threatened, protecting their soft underside",
+               " Pill Cockroaches are detritivores, feeding on decaying plant matter and helping in the decomposition process ",
+               "They are capable of regenerating lost limbs if injured, a trait shared by many cockroach species.",
+               "Female pill cockroaches are more common, with the round, characterstic exoskeleton but the males are rarely seen and look more like regular cockroaches!"
+            ],
+            "location": ["Bukit Timah  Dairy Farm", "Hillside Parks", "Bishan Park"],
+            "spritePath": "AnimalPrefabs/PillCockroach",
+            "isFound": false,
+            "screenShot": 0
+         },
+          {
+            "name": "Fiddler Crab",
+            "spawnTag1": "Grass",
+            "spawnTag2": "Water",
+            "type": "Arthropods",
+            "sciName": "Uca annulipes",
+            "description": "A small, amphibious crab that lives in burrows, mangroves or mudflats. Known for the extreme size difference between its claws, the males use their oversized claw for communication and attracting mates. They live in mangroves and mudflats.",
+            "ecosystems": [
+               "Mangrove",
+               "Intertidal"
+            ],
+            "rarity": 6,
+            "funFacts": [
+               "They are named for the oversized claw of the male, which resembles a fiddle or violin when raised",
+               "Fiddlers have a remarkable mating ritual: male fiddlers line up beside the tidy burrows they have dug and move their chelipeds (large claws) back and forth in a fiddling motion to attract females.",
+               "They are semi-terrestrial, spending most of their time in burrows in mudflats or mangrove swamps, where they feed on algae and detritus",
+               "These crabs are highly sensitive to changes in tidal rhythms and are known to synchronize their activities with the tides."
+            ],
+            "location": ["Sungei Buloh", "Changi Beach", "Southern Islands", "Intertidal zones"],
+            "spritePath": "AnimalPrefabs/FiddlerCrab",
+            "isFound": false,
+            "screenShot": 0
+         },
+          {
+            "name": "Fighting Jumping Spider",
+            "spawnTag1": "Tree",
+            "spawnTag2": "Grass",
+            "type": "Arthropods",
+            "sciName": "Various species, e.g., Thiania bhamoensis",
+            "description": "A small, agile spider known for its excellent jumping ability and keen vision. It is often brightly colored and exhibits unique courtship behaviors.",
+            "ecosystems": [
+               "Lowland rainforest",
+               "Secondary forest",
+               "Urban"
+            ],
+            "rarity": 5,
+            "funFacts": [
+               "They are known for their impressive jumping ability, which they use to ambush prey",
+               "Fighting Jumping Spiders have excellent eyesight and use their keen vision to track and pounce on insects",
+               "They do not spin webs but instead use silk to construct retreats and safety lines",
+               "These spiders are curious and will investigate movements near them, sometimes approaching humans.They are harmless to humans and play a role in controlling insect populations in gardens and homes!"
+            ],
+            "location": ["Bukit Timah  Dairy Farm", "Botanic Gardens Rainforest", "Bishan Park"],
+            "spritePath": "AnimalPrefabs/FightingJumpingSpider",
+            "isFound": false,
+            "screenShot": 0
+         },
+         {
+            "name": "Giant Snakehead",
+            "spawnTag1": "Water",
+            "spawnTag2": "NA",
+            "type": "Fish",
+            "sciName": "Channa micropeltes",
+            "description": "A large predatory fish known for its aggressive nature and distinct snake-like appearance. It is native to freshwater habitats in Southeast Asia.",
+            "ecosystems": [
+               "Freshwater bodies",
+               "Marshland",
+               "Urban"
+            ],
+            "rarity": 3,
+            "funFacts": [
+               "The Giant Snakehead is known for its powerful jaws and sharp teeth, making it a formidable predator",
+               "It can breathe air using a primitive lung-like structure, allowing it to survive in low-oxygen environments",
+               "Juveniles are often brightly colored with orange and black stripes, which fade as they mature",
+               "They are highly territorial and can be aggressive towards other fish, as well as humans when guarding their nests"
+            ],
+            "location": ["MacRitchie Reservoir", "Kranji"],
+            "spritePath": "AnimalPrefabs/GiantSnakehead",
+            "isFound": false,
+            "screenShot": 0
+         },
+         {
+            "name": "Gold Spotted Mudskipper",
+            "spawnTag1": "Water",
+            "spawnTag2": "NA",
+            "type": "Fish",
+            "sciName": "Periophthalmus chrysospilos",
+            "description": "A unique amphibious fish that can live both in water and on land. It is recognized by its distinctive gold spots and its ability to 'skip' across the mud.",
+            "ecosystems": [
+               "Mangrove",
+               "Intertidal",
+               "Urban"
+            ],
+            "rarity": 4,
+            "funFacts": [
+               "Gold Spotted Mudskippers can breathe through their skin and the lining of their mouth and throat, allowing them to survive out of water",
+               "They are capable of 'skipping' on land using their pectoral fins, which helps them move between tidal pools and mudflats",
+               "These mudskippers are known for their territorial behavior and will often engage in displays and fights to defend their space",
+               "They feed on small invertebrates and algae, playing a crucial role in the mangrove ecosystem"
+            ],
+            "location": ["Sungei Buloh"],
+            "spritePath": "AnimalPrefabs/Mudskipper",
+            "isFound": false,
+            "screenShot": 0
+         }
+    ]
+}

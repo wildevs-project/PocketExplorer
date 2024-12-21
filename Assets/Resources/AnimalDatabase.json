@@ -1,0 +1,52 @@
+{
+    "animals": [
+        {
+            "name": "Lesser Mousedeer",
+            "spawnTag1": "Grass",
+            "spawnTag2": "NA",
+            "type": "Mammal",
+            "description": "NA",
+            "ecosystem": "NA",
+            "rarity": 0,
+            "funFacts": "NA",
+            "location": "Central Catchment",
+            "spritePath": "AnimalPrefabs/LesserMousedeer"
+        },
+        {
+            "name": "Oriental Dwarf Kingfisher",
+            "spawnTag1": "Tree",
+            "spawnTag2": "NA",
+            "type": "Bird",
+            "description": "NA",
+            "ecosystem": "NA",
+            "rarity": 0,
+            "funFacts": "NA",
+            "location": "Central Catchment",
+            "spritePath": "AnimalPrefabs/OrientalDwarfKingfisher"
+        },
+        {
+            "name": "Raffles Banded Langur",
+            "spawnTag1": "Tree",
+            "spawnTag2": "Grass",
+            "type": "Mammal",
+            "description": "NA",
+            "ecosystem": "NA",
+            "rarity": 0,
+            "funFacts": "NA",
+            "location": "Central Catchment",
+            "spritePath": "AnimalPrefabs/RafflesBandedLangur"
+        },
+        {
+            "name": "Stinkhorn Mushroom",
+            "spawnTag1": "NA",
+            "spawnTag2": "NA",
+            "type": "Fungi",
+            "description": "NA",
+            "ecosystem": "NA",
+            "rarity": 0,
+            "funFacts": "NA",
+            "location": "Central Catchment",
+            "spritePath": "NA"
+        }
+    ]
+}
