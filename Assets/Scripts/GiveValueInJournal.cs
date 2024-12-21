@@ -5,6 +5,7 @@ using UnityEngine.UI;
 using System.IO;
 using TMPro;
 
+//fills the journal with the animal's information (I think)
 public class GiveValueInJournal : MonoBehaviour
 {
     // Start is called before the first frame update
