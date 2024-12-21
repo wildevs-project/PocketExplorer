@@ -5,6 +5,7 @@ using UnityEngine;
 public class CanvasActivator : MonoBehaviour
 {
     // Start is called before the first frame update
+    //test
     public GameObject gameObject;
 
     void Start()
