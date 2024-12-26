@@ -27,7 +27,9 @@ public class CharacterSpawnIn1 : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        if (!StaticDataJournal.isTutorial) {
+            Debug.Log("Tutorial Ending");
+        }
     }
 
     // Update is called once per frame

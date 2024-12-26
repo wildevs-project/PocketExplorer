@@ -47,4 +47,12 @@ public class NavigateToTwoScenes : MonoBehaviour
         yield return new WaitForSeconds(clickSound.length + 0.2f);
         SceneManager.LoadScene(name);
     }
+
+    public void setAsTut() {
+        StaticDataJournal.isTutorial = true;
+    }
+
+    public void setAsNotTut() {
+        StaticDataJournal.isTutorial = false;
+    }
 }
