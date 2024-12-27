@@ -328,8 +328,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   dialogueController: {fileID: 57074179}
-  Yes: {fileID: 0}
-  No: {fileID: 0}
+  Yes: {fileID: 1601261952}
+  No: {fileID: 1601261952}
 --- !u!114 &57074179
 MonoBehaviour:
   m_ObjectHideFlags: 0
