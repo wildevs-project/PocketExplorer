@@ -30,15 +30,15 @@ public class NextButSavePos : OptionsScreen
     public override void Back() {
         GameObject player = CharSpawn.player;
         Transform playerTransform = player.GetComponent<Transform>();
-        if (titleScene == "SSCapGrass")
+        if (titleScene == "SSCapGrass" || titleScene =="tut SSCapGrass")
         {
             ButtonPressed(titleScene, grassButton);
         }
-        else if (titleScene == "SSCapWater")
+        else if (titleScene == "SSCapWater"|| titleScene =="tut SSCapWater")
         {
             ButtonPressed(titleScene, waterButton);
         }
-        else if (titleScene == "SSCapTree")
+        else if (titleScene == "SSCapTree"|| titleScene =="tut SSCapTree")
         {
             ButtonPressed(titleScene, treeButton);
         }
